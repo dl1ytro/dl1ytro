@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @dmytro
+- 👀 I’m interested in some coding, swimming, food cooking, internet browsing
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python for begginers
+- 📫 How to reach me: dirrect chat on github, discord @dl1ytro
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like yellow color sunglasses. Its make world brighter
